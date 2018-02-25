@@ -1,0 +1,111 @@
+.closeButton {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  font-size: 200%;
+}
+
+.moviebox {
+  padding: 10px;
+  border: 1px solid lightgray;
+  margin: 5px 10px 5px 10px;
+  width: 34%;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.movieDisplay {
+  display: flex;
+  background-color: rgba(0,0,0,0.7); /*dim the background*/
+
+}
+.userName{
+    color: white;
+}
+
+.comment{
+  color: white;
+}
+
+.commentField {
+  background-color: rgba(0,0,0,0.7); /*dim the background*/
+  color: white;
+}
+.commentList {
+  background-color: rgba(0,0,0,0.7); /*dim the background*/
+  color: white;
+}
+.commentForm{
+  background-color: rgba(0,0,0,0.7); /*dim the background*/
+  color: white;
+}
+
+.user{
+  color: #17a2b8;
+}
+
+.text{
+  color:#f8f9fa;
+}
+.userName{
+  color: white;
+
+}
+
+.comment{
+  color: white;
+}
+
+.movieDescription {
+  margin-left: 40px;
+  color: white;
+  background-color: rgba(0,0,0,0.7); /*dim the background*/
+
+
+}
+
+.movieField {
+  padding-bottom: 5px;
+}
+
+.display{
+  background-image: url("theatre.jpg");
+}
+body{
+  background-image: url("architecture.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: black;
+
+}
+
+a{
+  color: white;
+}
+
+.search{
+  background-color: rgba(0,0,0,0.7); /*dim the background*/
+color: white;
+}
+
+.searchButton{
+  text-align: center;
+
+}
+/* .searchPage {
+
+} */
+.searchBar {
+
+
+  text-align: center;
+}
+
+
+
+.searchResults {
+  background-color: rgba(0,0,0,0.7); /*dim the background*/
+  display:flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
