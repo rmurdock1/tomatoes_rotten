@@ -6,7 +6,9 @@ To ensure successfully installation please run the below steps:
 3. Create a .env file with the below information in the project folder:
 
 REACT_APP_DATABASE_URL= 'postgres://<yourusername>:<yourpassword>@localhost/'
+
 REACT_APP_DATABASE_NAME= 'imdb'
+
 REACT_APP_OMDB_API_KEY= '<yourOMDBkey>'
 
 4. Thats it! Run "NPM Start" and watch the magic happen.
